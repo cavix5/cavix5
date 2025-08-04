@@ -29,7 +29,7 @@ Driven by a passion for data science and analytics, I come from an Actuarial Sci
 ---
 
 ### 🔧 Technical stack:
-Python · SQL · R · Power BI · Git · Jupyter · Pandas · Matplotlib
+Python · SQL · R · Power BI · Git · Jupyter · PySpark
 
 ---
 
